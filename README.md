@@ -4,15 +4,9 @@ A new Flutter app.
 
 ## UI Part
 
+![First Page](https://github.com/ENGR-ZEESHAN/tasbeeh_counter/blob/main/UI%20Design/Artboard%201%20copy%202.jpg)
 
+![create counter](https://github.com/ENGR-ZEESHAN/tasbeeh_counter/blob/main/UI%20Design/Artboard%201%20copy.jpg)
 
-This project is a starting point for a Flutter application.
+![cpunt Page](https://github.com/ENGR-ZEESHAN/tasbeeh_counter/blob/main/UI%20Design/Artboard%201%20copy%203.jpg?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
