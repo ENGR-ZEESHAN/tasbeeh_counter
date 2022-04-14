@@ -1,8 +1,10 @@
 # tasbeeh_counter
 
-A new Flutter project.
+A new Flutter app.
 
-## Getting Started
+## UI Part
+
+
 
 This project is a starting point for a Flutter application.
 
