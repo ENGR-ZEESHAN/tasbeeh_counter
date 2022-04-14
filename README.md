@@ -4,9 +4,8 @@ A new Flutter app.
 
 ## UI Part
 
-![First Page](https://github.com/ENGR-ZEESHAN/tasbeeh_counter/blob/main/UI%20Design/Artboard%201%20copy%202.jpg)
+![working of app](https://user-images.githubusercontent.com/96665912/163469601-e44e094a-ca1c-4846-ad32-37f75f94c612.gif)
 
-![create counter](https://github.com/ENGR-ZEESHAN/tasbeeh_counter/blob/main/UI%20Design/Artboard%201%20copy.jpg)
 
-![cpunt Page](https://github.com/ENGR-ZEESHAN/tasbeeh_counter/blob/main/UI%20Design/Artboard%201%20copy%203.jpg?raw=true)
+
 
